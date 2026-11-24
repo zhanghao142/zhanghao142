@@ -1,34 +1,55 @@
-# Hi, I'm zhanghao142
+<h1 align="center">Learning Backend & AI Agent</h1>
 
-I'm a university student graduating in 2029, focused on Java backend development and AI agents.
+<p align="center">Java Backend · AI Agents · Open Source</p>
 
-I build agent applications and contribute upstream fixes and features based on problems I encounter.
+<br />
 
-## Projects
+<h2 align="center">ABOUT ME</h2>
 
-### [WeChat AI Assistant](https://github.com/zhanghao142/wechat-ai-assistant)
-A WeChat and desktop assistant built with Spring Boot and LangGraph4j.
+<p align="center">
+  A university student graduating in 2029, focused on <b>Java backend development and AI agents</b>.<br />
+  Exploring multi-agent orchestration, tool integration, and agent memory.<br />
+  Passionate about contributing to open source and learning by building, debugging, and contributing to open source.
+</p>
 
-- Central orchestrator with specialist agents for different tasks.
-- Human confirmation before write operations.
-- Optional MCP integrations and document retrieval.
+<br />
 
-### [langMem4j](https://github.com/zhanghao142/langMem4j)
-An early-stage Java library for long-term agent memory.
+<h2 align="center">TECH STACK</h2>
 
-- Event-driven memory updates through MemoryEvent.
-- Storage integration, including LangGraph4j Store.
-- Optional LangChain4j tools and Spring Boot starter.
+<table align="center">
+  <tr>
+    <th align="center">Backend</th>
+    <th align="center">AI Agent</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square" alt="Spring" />
+      <br />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Spring%20Cloud-4D9D28?style=flat-square" alt="Spring Cloud" />
+      <br />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square" alt="Redis" />
+      <img src="https://img.shields.io/badge/Kafka-343434?style=flat-square" alt="Kafka" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square" alt="LangChain4j" />
+      <img src="https://img.shields.io/badge/LangGraph4j-2563EB?style=flat-square" alt="LangGraph4j" />
+      <br />
+      <img src="https://img.shields.io/badge/MCP-555555?style=flat-square" alt="MCP" />
+      <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" alt="RAG" />
+      <br />
+      <img src="https://img.shields.io/badge/Multi--Agent-0891B2?style=flat-square" alt="Multi-Agent" />
+      <img src="https://img.shields.io/badge/Tool%20Calling-D97706?style=flat-square" alt="Tool Calling" />
+    </td>
+  </tr>
+</table>
 
-## Open-source Contributions
+<br />
 
-### LangGraph4j — merged
-- [#438](https://github.com/langgraph4j/langgraph4j/pull/438): Added opt-in SkillInjector for activating skills after successful tool calls and injecting their content into model requests.
-- [#439](https://github.com/langgraph4j/langgraph4j/pull/439): Added single-turn skill activation and selective unloading.
+<h2 align="center">CURRENT FOCUS</h2>
 
-### DeerFlow — under review
-- [#8546](https://github.com/bytedance/deer-flow/pull/8546): Addressed Windows startup hangs, locale-independent port detection, startup deadlines, and probe cleanup, with regression tests.
-
-## Currently Learning
-
-Deepening my understanding of graph execution, agent state management, and reliable tool execution.
+<p align="center">
+  Backend Engineering & AI Agents<br />
+  Graph Execution · State Management · Multi-Agent Orchestration
+</p>
