@@ -9,7 +9,7 @@
 <p align="center">
   A university student graduating in 2029, focused on <b>Java backend development and AI agents</b>.<br />
   Exploring multi-agent orchestration, tool integration, and agent memory.<br />
-  Passionate about contributing to open source and learning by building, debugging, and contributing to open source.
+  Passionate about contributing to open source and learning by building and debugging.
 </p>
 
 <br />
