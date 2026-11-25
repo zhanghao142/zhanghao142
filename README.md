@@ -30,7 +30,7 @@
       <img src="https://img.shields.io/badge/Spring%20Cloud-4D9D28?style=flat-square" alt="Spring Cloud" />
       <br />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square" alt="Redis" />
-      <img src="https://img.shields.io/badge/Kafka-343434?style=flat-square" alt="Kafka" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" alt="MySQL" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square" alt="LangChain4j" />
