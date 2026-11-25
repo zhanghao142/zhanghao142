@@ -1,6 +1,6 @@
 <h1 align="center">Hi there,I'm zhanghao142</h1>
 
-<p align="center">Java Backend · AI Agents · Open Source</p>
+<p align="center">Backend & AI Agents Developer</p>
 
 <br />
 
